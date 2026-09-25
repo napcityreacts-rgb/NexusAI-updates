@@ -1,6 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "3.5",
+  "versionCode": 6,
+  "versionName": "3.6",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "notes": "Fixes updates failing on first run: the app now asks for Android's one-time install permission BEFORE downloading, instead of failing silently. Settings also shows the real install error if anything goes wrong."
+  "sha256": "0a479dbf0b8c6d2b134e947f813446815ba9294eedeea13adb96fb500296c6e0",
+  "notes": "Update installer hardening: the session now names the app package explicitly (some phones reject unnamed self-update sessions), downloads are verified against a published checksum before install, and installer errors are shown instead of swallowed."
 }
