@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "3.7",
+  "versionCode": 8,
+  "versionName": "3.8",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "450b6cd0f7196bd6ad851c3a16f207010f7ea01ffbe19604b8978338d834ebe0",
-  "notes": "Test build: if you're reading this in the update dialog, the in-app updater works end to end."
+  "sha256": "fc6a2c1271a2831f2a08ebf21cfbab14555b1f69b7087457fa3f6edd8a948f56",
+  "notes": "Version bookkeeping fix: the build script now stamps the same version everywhere, so a wrong build can never pretend to be v3.3 again."
 }
