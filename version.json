@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "3.6",
+  "versionCode": 7,
+  "versionName": "3.7",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "0a479dbf0b8c6d2b134e947f813446815ba9294eedeea13adb96fb500296c6e0",
-  "notes": "Update installer hardening: the session now names the app package explicitly (some phones reject unnamed self-update sessions), downloads are verified against a published checksum before install, and installer errors are shown instead of swallowed."
+  "sha256": "450b6cd0f7196bd6ad851c3a16f207010f7ea01ffbe19604b8978338d834ebe0",
+  "notes": "Test build: if you're reading this in the update dialog, the in-app updater works end to end."
 }
