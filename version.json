@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "3.9",
+  "versionCode": 10,
+  "versionName": "3.9.1",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "0e9be91993a1c5a2076ee9c59bd75cae138cb3cd18a628e242bc09cc20fa83e0",
-  "notes": "Real on-device LLM core: Qwen2.5-0.5B via llama.cpp, streaming chat, tool-calling agent"
+  "sha256": "df09146567c8a293e7bfc15dc324a95dac7a07bb687503bd23171e3bad7e4c10",
+  "notes": "Fix AI model download: correct file size bounds (real file is 491MB)"
 }
