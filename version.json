@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "3.9.1",
+  "versionCode": 11,
+  "versionName": "3.9.2",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "df09146567c8a293e7bfc15dc324a95dac7a07bb687503bd23171e3bad7e4c10",
-  "notes": "Fix AI model download: correct file size bounds (real file is 491MB)"
+  "sha256": "08243d39cce7e23ad94d822dd4c467df5c8d46a53838048f600b0e559fa361c2",
+  "notes": "Model download: auto-retry (5 attempts) with resume; verified-complete marker"
 }
