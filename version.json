@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "3.8",
+  "versionCode": 9,
+  "versionName": "3.9",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "fc6a2c1271a2831f2a08ebf21cfbab14555b1f69b7087457fa3f6edd8a948f56",
-  "notes": "Version bookkeeping fix: the build script now stamps the same version everywhere, so a wrong build can never pretend to be v3.3 again."
+  "sha256": "0e9be91993a1c5a2076ee9c59bd75cae138cb3cd18a628e242bc09cc20fa83e0",
+  "notes": "Real on-device LLM core: Qwen2.5-0.5B via llama.cpp, streaming chat, tool-calling agent"
 }
