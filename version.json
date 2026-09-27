@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "3.9.2",
+  "versionCode": 12,
+  "versionName": "3.10",
   "apkUrl": "https://raw.githubusercontent.com/napcityreacts-rgb/NexusAI-updates/main/nexusai-debug.apk",
-  "sha256": "08243d39cce7e23ad94d822dd4c467df5c8d46a53838048f600b0e559fa361c2",
-  "notes": "Model download: auto-retry (5 attempts) with resume; verified-complete marker"
+  "sha256": "b542226646c20f4f6966ed934547ca445224887d13a147146e1726f8c30577c2",
+  "notes": "Bigger brain: Qwen2.5-1.5B option (Small/Large selector); 3 tool rounds"
 }
